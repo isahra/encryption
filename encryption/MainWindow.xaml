@@ -13,7 +13,6 @@
         <TextBox x:Name="cyphertext"/>
         <Button x:Name="PlainToCyphr" Content="plain convert to cypher" Click="Convert_Click"/>
         <Button x:Name="CypherToPlain" Content="cypher convert to plain" Click="CypherToPlain_Click"/>
-        <Button x:Name="document" Content="Document"/>
 
     </StackPanel>
 </Window>
